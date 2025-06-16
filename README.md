@@ -1,5 +1,8 @@
 # LICENSE
 Attribution 4.0 International
+  CC BY 4.0
+Code juridique
+Attribution 4.0 International
 En exerçant les Droits de Licence (définis ci-dessous), vous acceptez et convenez d'être lié par les termes et conditions de la présente Licence Publique Internationale Creative Commons Attribution 4.0 (« Licence Publique »). Dans la mesure où cette Licence Publique peut être interprétée comme un contrat, les Droits de Licence Vous sont accordés en contrepartie de votre acceptation des présentes conditions générales, et le Concédant Vous accorde ces droits en contrepartie des avantages qu'il retire de la mise à disposition du Contenu sous Licence conformément aux présentes conditions générales.
 
 Section 1 – Définitions.
